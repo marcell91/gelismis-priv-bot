@@ -1,4 +1,6 @@
-# Tamamen kendim yazdığım hiç bir altyapı üstüne kodlamadığım bir priv bot, gerçekten sağlam ve kaliteli oldu, sizlerle paylaşıyorum
+# tamamen kendim yazdığım hiç bir altyapı üstüne kodlamadığım bir priv bot, gerçekten sağlam ve kaliteli oldu, sizlerle paylaşıyorum
+
+# Web panellisini ve anlık olarak satın almak isteyen discord üzerinden https://discord.com/invite/auranest gelip ticket açabilir
 
 - Botun gelmesini istiyorsanız en az 50 star bekliyorum.
 
