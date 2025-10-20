@@ -9,8 +9,6 @@
 <details>
 
 <summary>Komutlar</summary>
-<img width="672" height="188" alt="image" src="https://github.com/user-attachments/assets/f16a9cad-e4bc-4a89-9543-b3d23d247916" />
-
 <img width="672" height="188" alt="image" src="https://github.com/user-attachments/assets/b52e12c4-2465-4f07-bf09-a405c4deceec" />
 
 <img width="670" height="249" alt="image" src="https://github.com/user-attachments/assets/7ed3b499-5657-4b70-bece-dcacbdad714b" />
