@@ -1,4 +1,4 @@
-<img width="672" height="188" alt="image" src="https://github.com/user-attachments/assets/f16a9cad-e4bc-4a89-9543-b3d23d247916" /># Tamamen kendim yazdığım hiç bir altyapı üstüne kodlamadığım bir priv bot, gerçekten sağlam ve kaliteli oldu, sizlerle paylaşıyorum
+# Tamamen kendim yazdığım hiç bir altyapı üstüne kodlamadığım bir priv bot, gerçekten sağlam ve kaliteli oldu, sizlerle paylaşıyorum
 
 - Botun gelmesini istiyorsanız en az 50 star bekliyorum.
 
@@ -7,6 +7,7 @@
 <details>
 
 <summary>Komutlar</summary>
+<img width="672" height="188" alt="image" src="https://github.com/user-attachments/assets/f16a9cad-e4bc-4a89-9543-b3d23d247916" />
 
 <img width="672" height="188" alt="image" src="https://github.com/user-attachments/assets/b52e12c4-2465-4f07-bf09-a405c4deceec" />
 
