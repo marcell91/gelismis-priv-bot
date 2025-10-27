@@ -4,7 +4,6 @@
 
 <details>
 <summary>Web Panel</summary>
-<details>
 <img width="1761" height="816" alt="image" src="https://github.com/user-attachments/assets/6d705132-a878-4fca-b584-35f68d680ee3" />
 
 <img width="1818" height="829" alt="image" src="https://github.com/user-attachments/assets/daaf95f6-9e4d-4c5c-bbae-35180e42b12b" />
@@ -13,6 +12,7 @@
 <details>
 
 <details>
+
 <summary>Komutlar</summary>
 <img width="672" height="188" alt="image" src="https://github.com/user-attachments/assets/b52e12c4-2465-4f07-bf09-a405c4deceec" />
 
